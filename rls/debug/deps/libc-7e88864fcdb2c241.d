@@ -1,0 +1,13 @@
+c:\Users\aziis98\Documents\Develop\Rust\n-bodies\rls\debug\deps\libc-7e88864fcdb2c241.rmeta: C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\lib.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\macros.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\dox.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\windows.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\mod.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\net.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\cloudabi\mod.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\fuchsia\mod.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\unix\mod.rs
+
+c:\Users\aziis98\Documents\Develop\Rust\n-bodies\rls\debug\deps\libc-7e88864fcdb2c241.d: C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\lib.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\macros.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\dox.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\windows.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\mod.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\net.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\cloudabi\mod.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\fuchsia\mod.rs C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\unix\mod.rs
+
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\lib.rs:
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\macros.rs:
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\dox.rs:
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\windows.rs:
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\mod.rs:
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\redox\net.rs:
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\cloudabi\mod.rs:
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\fuchsia\mod.rs:
+C:\Users\aziis98\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.42\src\unix\mod.rs:

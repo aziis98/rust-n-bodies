@@ -1,0 +1,15 @@
+[package]
+name = "n-bodies"
+version = "0.1.0"
+authors = ["aziis98 <antonio.delucreziis@gmail.com>"]
+
+[[bin]]
+name = "n-bodies"
+
+# pistoncore-sdl2_window = "0.50.0"
+
+[dependencies]
+piston = "0.37.0"
+piston2d-graphics = "0.26.0"
+pistoncore-glutin_window = "0.47.0"
+piston2d-opengl_graphics = "0.53.0"
